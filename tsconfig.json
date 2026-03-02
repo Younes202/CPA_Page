@@ -1,0 +1,4 @@
+{
+  // This line links your editor to the Nuxt engine and clears the red errors
+  "extends": "./.nuxt/tsconfig.json"
+}
