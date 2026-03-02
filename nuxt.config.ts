@@ -25,7 +25,7 @@ export default defineNuxtConfig({
 
   app: {
     // CHANGED: Must match your repository name for assets to load correctly
-    baseURL: '/LandingPageCPA/',
+    baseURL: '/CPA_Page/',
     head: {
       title: 'CPA - Conseil et Placement d\'Assurances',
       meta: [
